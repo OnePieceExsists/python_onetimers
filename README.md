@@ -1,2 +1,3 @@
-# python_onetimers
-A collection of 100+ small Python projects for practice, each in its own folder with separate documentation.
+# 100+ Python Projects
+
+This repository contains 100+ small and independent Python projects created for practice, learning, and experimentation. Each project is placed in its own folder with a dedicated README file explaining its purpose and usage.
