@@ -51,4 +51,4 @@ Make sure Python 3 is installed on your system.
 Python 3
 
 📬 Contact
-Created by [Your Name].
+Created by Ilija.
