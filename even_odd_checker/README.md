@@ -35,9 +35,8 @@ Perfect for beginners who want to understand control flow and basic logic in Pyt
 1. Clone or download the script
 2. Run it with Python 3:
 
-```bash
-python even_odd_checker.py
 make sure Python 3 is installed on your system.
+python even_odd_checker.py
 
 🖼️ Screenshot
 
