@@ -23,10 +23,6 @@ Perfect for beginners who want to understand control flow and basic logic in Pyt
 2 is even
 8 is even
 
-markdown
-Copy
-Edit
-
 ## 💡 How It Works
 
 - It iterates through a list of integers: `[3, 9, 1, 10, 5, 2, 8]`
@@ -41,7 +37,7 @@ Edit
 
 ```bash
 python even_odd_checker.py
-Make sure Python 3 is installed on your system.
+make sure Python 3 is installed on your system.
 
 🖼️ Screenshot
 
