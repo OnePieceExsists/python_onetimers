@@ -45,7 +45,7 @@ Make sure Python 3 is installed on your system.
 
 🖼️ Screenshot
 
-![even_odd_checker](even_odd_checker.png)
+![even_odd_checker](even_odd_checker/even_odd_checker.png)
 
 🛠️ Technologies Used
 Python 3
