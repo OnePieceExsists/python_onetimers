@@ -1,4 +1,5 @@
 import time
+import sys
 
 print("Stopwatch started! Press Ctrl+C to stop.")
 start = time.time()
@@ -13,3 +14,4 @@ try:
         time.sleep(1)
 except KeyboardInterrupt:
     print(f"\n Stopwatch stopped at {mins:02d}:{secs:02d}")
+    sys.exit()  # This ensures the program terminates completely
