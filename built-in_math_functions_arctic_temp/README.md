@@ -6,7 +6,7 @@ The result is rounded to **1 decimal place** for readability.
 ---
 
 # Output screenshot
-![Output screenshot](screenshots/python_built-in_math_functions.png)
+![Output screenshot](python_built-in_math_functions.png)
 
 # Step-by-step explanation (line-by-line)
 

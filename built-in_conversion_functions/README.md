@@ -6,7 +6,7 @@ This script demonstrates how Python handles **different data types** (`int`, `fl
 ---
 
 # Output screenshot
-![Output screenshot](screenshots/python_built-in_conversion_functions.png)
+![Output screenshot](python_built-in_conversion_functions.png)
 
 # Step-by-step explanation
 
